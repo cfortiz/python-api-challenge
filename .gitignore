@@ -1,3 +1,6 @@
+# Ignore api_keys.py since this holds configuration secrets for API authn
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
